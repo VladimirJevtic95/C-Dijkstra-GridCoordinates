@@ -1,3 +1,5 @@
+This is the example if we are reading map from the external txt file.
+
 #### Input
 
 ```
