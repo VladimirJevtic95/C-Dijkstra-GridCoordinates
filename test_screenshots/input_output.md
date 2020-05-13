@@ -1,14 +1,15 @@
-Input
+#### Input
 
+```
 3 15 47
 CCCNNNNNNNNHCCN
 HCHCCCCCCNNHHPN
 HPCNNNNNDPCCNNN
+```
 
-------------------------------------------------------------
+#### Output
 
-Output
-
+```
 0 0
 1 0
 2 0
@@ -42,3 +43,4 @@ Output
 2 2
 1 2
 TIME-> 38
+```
