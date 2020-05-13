@@ -16,17 +16,19 @@ If you want to run the program from **command line** use the commands below:
 
 ***test.txt*** is used as a external file to read a map from it.
 
-1st row **must** contain 3 numbers (n->height, m->width, t->time or how long until dragon wakes up)
+1st row must contain 3 numbers (n->height, m->width, t->time or how long until dragon wakes up)
 
 
-##### Input/Output example
+
+
+#### Input/Output example
 
 If you are interested in input/output of this program, please see this 
 **[input-output](https://github.com/VladimirJevtic95/C-Dijkstra-GridCoordinates/blob/master/test_screenshots/input_output.md)** 
 file.
 
 
-##### Some of the test screen shots
+#### Some of the test screen shots
 
 ![](test_screenshots/mapa1-1.png)
 ![](test_screenshots/mapa1-2.png)
